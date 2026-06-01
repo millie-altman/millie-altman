@@ -1,12 +1,60 @@
-# Millie Altman | Cybersecurity Portfolio
+# Millie Altman | Cyber Threat Intelligence
 
-Aspiring Junior Cyber Threat Intelligence (CTI) Analyst focused on threat research, investigative analysis, security operations, and defensive security.
+![CTI](https://img.shields.io/badge/Focus-Cyber%20Threat%20Intelligence-purple)
+![MITRE ATT&CK](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)
+![TLP:CLEAR](https://img.shields.io/badge/TLP-CLEAR-white)
+![Security+](https://img.shields.io/badge/Cert-CompTIA%20Security%2B-red)
+![CySA+](https://img.shields.io/badge/Cert-CySA%2B%20In%20Progress-orange)
+![OSINT](https://img.shields.io/badge/Skill-OSINT-blue)
+![Python](https://img.shields.io/badge/Code-Python-blue)
+
+Junior CTI analyst focused on threat actor research, adversary TTP analysis, finished intelligence production, and detection engineering. Seeking CTI, threat research, and GovTech roles in federal civilian, DoD, and private sector environments.
 
 - B.S. Cybersecurity — Concentration in Cybercrime
-- 3.95 GPA
-- Center of Academic Excellence in Cyber Defense Recognition
-- American Military University Academic Excellence Recognition
-- Golden Key International Honour Society Member
+- 3.95 GPA | Center of Academic Excellence in Cyber Defense
+- Golden Key International Honour Society
+
+---
+
+## Portfolio
+
+| Repository | Description |
+|---|---|
+| [threat-intelligence-portfolio](https://github.com/millie-altman/threat-intelligence-portfolio) | Finished intelligence products — phishing campaign analysis, Play ransomware TIC brief, defensive architecture analysis, and Priority Intelligence Requirements |
+| [threat-actor-profiles](https://github.com/millie-altman/threat-actor-profiles) | Structured threat actor profiles — Volt Typhoon (PRC) and APT29 (Russia SVR) with full ATT&CK TTP mapping, campaign history, and analytical confidence assessments |
+| [cti-research-lab](https://github.com/millie-altman/cti-research-lab) | Purple team research lab — adversary emulation with Atomic Red Team, custom Wazuh detection rule engineering, Sysmon telemetry analysis, and Diamond Model intrusion analysis |
+| [python-security-tools](https://github.com/millie-altman/python-security-tools) | CTI analyst tooling — phishing URL analyzer, email header analyzer, and AbuseIPDB IP enrichment tool |
+
+---
+
+## Featured Work
+
+**[Play Ransomware — Threat Intelligence Collection Brief](https://github.com/millie-altman/threat-intelligence-portfolio/blob/main/finished-intelligence/ransomware-tic-brief.md)**  
+Full TIC brief covering Play ransomware TTPs, kill chain analysis, IOCs, and prioritized defensive recommendations for defense contractor environments. Sourced from FBI/CISA advisory AA23-352A (updated June 2025).
+
+**[Volt Typhoon — Threat Actor Profile](https://github.com/millie-altman/threat-actor-profiles/blob/main/nation-state/volt-typhoon.md)**  
+Comprehensive profile of PRC state-sponsored pre-positioning operations against U.S. critical infrastructure. Covers KV Botnet infrastructure, LOTL tradecraft, kill chain analysis, and geopolitical context.
+
+**[APT29 / Cozy Bear — Threat Actor Profile](https://github.com/millie-altman/threat-actor-profiles/blob/main/nation-state/apt29-cozy-bear.md)**  
+Full profile of Russia SVR cyber espionage operations including the 2024 Microsoft breach, cloud-native tradecraft pivot, OAuth abuse, and August 2025 device code authentication watering hole campaign.
+
+**[Phishing Campaign Intelligence Report](https://github.com/millie-altman/threat-intelligence-portfolio/blob/main/finished-intelligence/phishing-triage-report.md)**  
+Finished intelligence product documenting a credential harvesting phishing investigation — ATT&CK kill chain mapping, IOC extraction, campaign context, and CTI assessment.
+
+**[Purple Team Research Lab](https://github.com/millie-altman/cti-research-lab)**  
+Six-day lab cycle — deployed Wazuh, Sysmon, Kali Linux, and Atomic Red Team; emulated APT29 TTPs (T1053.005, T1059.001); engineered custom detection rule with MITRE ATT&CK mapping; conducted Diamond Model intrusion analysis.
+
+---
+
+## Skills & Frameworks
+
+**Threat Intelligence:** CTI analysis | Threat actor profiling | OSINT | IOC analysis | Finished intelligence production | Priority Intelligence Requirements | ATT&CK TTP mapping | Diamond Model | Cyber Kill Chain
+
+**Detection & Operations:** Wazuh SIEM | Sysmon | Adversary emulation | Detection rule engineering | Alert triage | Log analysis | Incident response
+
+**Technical:** Python | Linux | Wireshark | AbuseIPDB | Atomic Red Team | VMware
+
+**Compliance:** NIST SP 800-53 | DoD RMF | FISMA | DFARS | CMMC 2.0
 
 ---
 
@@ -15,99 +63,13 @@ Aspiring Junior Cyber Threat Intelligence (CTI) Analyst focused on threat resear
 - CompTIA Security+
 - Google Cybersecurity Professional Certificate
 - Microsoft Office Specialist
-- CySA+ Cohort (July 2026)
-- AWS Cloud Practitioner (Planned)
+- CySA+ — cohort July 2026
+- AWS Cloud Practitioner — planned
 
 ---
 
-## CTI & Security Focus
+## Connect
 
-### Threat Intelligence & Analysis
-- Cyber Threat Intelligence (CTI)
-- Threat Hunting
-- Threat Research
-- Intelligence Analysis
-- Open-Source Intelligence (OSINT)
-- MITRE ATT&CK Framework
-- IOC Analysis
-- Threat Modeling
-- Adversary Emulation
-- Investigative Analysis
-- Behavioral Analysis
-
-### SOC & Defensive Security
-- Incident Response
-- SIEM & Log Analysis
-- Security Monitoring
-- Threat Detection
-- EDR
-- Vulnerability Management
-- Defensive Security
-- Risk Assessment
-
-### Technical Skills
-- Python
-- Splunk
-- Linux
-- Network Security
-- Security Automation
-- Cloud Security
-- Authentication & Access Management
-
----
-
-## Featured Projects
-
-### Multi-Stage SOC Simulation & Threat Intelligence Pipeline
-SOC simulation focused on IOC analysis, threat detection, SIEM workflows, and investigative analysis.
-
-[View Project](https://github.com/millieealtman02/Home-SOC-Lab/tree/main)
-
----
-
-### SOC & GRC Incident Response Case Study
-Case study centered on incident response planning, risk analysis, and governance.
-
-[View Project](https://github.com/millieelizabeth3/Cybersecurity-Portfolio/tree/main/SOC-GRC-Incident-Response-Case-Study)
-
----
-
-### NIST Security Architecture Case Study
-Security architecture analysis aligned with NIST cybersecurity frameworks and risk management principles.
-
-[View Project](https://github.com/millieealtman02/Cybersecurity-Portfolio/tree/main/NIST-Security-Architecture-Case-Study)
-
----
-
-### LastPass 2023 Security Incident Case Study
-Investigative threat analysis focused on authentication security, attack pathways, and organizational lessons learned.
-
-**Coming soon**
-
----
-
-## Repositories
-
-- [Cybersecurity Portfolio](https://github.com/millieelizabeth3/Cybersecurity-Portfolio)
-- [Home SOC Lab](https://github.com/millieelizabeth3/Home-SOC-Lab)
-- [Python Security Projects](https://github.com/millieelizabeth3/Python-Security-Projects)
-
----
-
-## Community & Leadership
-
-Current initiatives include developing cybersecurity awareness and digital safety resources for community education.
-
-Background experience includes:
-- Volunteer for cybersecurity work
-- Registered Behavior Technician (RBT) experience
-- Community support & caregiving coordination
-- Hospitality & POS system management
-
----
-
-## Connect With Me
-
-- LinkedIn: [www.linkedin.com/in/millieelizabeth](http://www.linkedin.com/in/millieelizabeth)
-- TikTok: [@cybergradchronicles](https://www.tiktok.com/@cybergradchronicles)
-* Email: millieelizabeth02@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/millieealtman)
+- [TikTok — @cybergradchronicles](https://www.tiktok.com/@cybergradchronicles)
+- millieelizabeth02@gmail.com
