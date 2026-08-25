@@ -63,13 +63,14 @@ Six-day lab cycle — deployed Wazuh, Sysmon, Kali Linux, and Atomic Red Team; e
 - CompTIA Security+
 - Google Cybersecurity Professional Certificate
 - Microsoft Office Specialist
-- CySA+ — cohort July 2026
-- AWS Cloud Practitioner — planned
+- CompTIA CySA+ — 2026*
+- Microsfot AZ 900 — 2026*
 
 ---
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/millieealtman)
+- [Cyber Grad Chronicles](cybergradchronicles.com)
 - [TikTok — @cybergradchronicles](https://www.tiktok.com/@cybergradchronicles)
 - millieelizabeth02@gmail.com
